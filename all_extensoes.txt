@@ -1,4 +1,6 @@
-
+cooperado
+gcu
+usc
 .bash_history
 .bashrc
 .cache
@@ -4098,6 +4100,10 @@ topsites
 torrent
 torrents
 tos
+sipagportador
+apps
+unp-hmg
+servcoreapi
 tour
 tours
 toys
